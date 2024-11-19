@@ -11,8 +11,7 @@ The goal of this project is to analysis the sales budget data, extract necessary
 - Make necessary dashboard
 - Find key metrics and factors and show the meaningful relationships between attributes
 
-## Dataset 📀
-[Adventure-Works Data](https://drive.google.com/drive/folders/165Pjmfb9W9PGy0rZjHEA22LW0Lt3Y-Q8)
+
 
 ## Technology �
 Business Intelligence
